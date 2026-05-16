@@ -1,4 +1,3 @@
-city = Tanjore
-
+city = Bangalore
 
 
